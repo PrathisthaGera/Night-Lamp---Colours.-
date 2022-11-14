@@ -1,8 +1,7 @@
 /*
  * Creation & Computation - Digital Futures, OCAD University
  * Kate Hartman / Nick Puckett
- * Sketch - 4 
- * Project - 2 
+ * Night Lamp - Colours 
  */
 
 
